@@ -1,1 +1,0 @@
-{"py/object": "__main__.C", "id": 5}
